@@ -37,7 +37,7 @@ export default function FromText(){
                     <textarea id="memo" name="memo" rows="2" maxLength="200" className="form-control form-control-sm"></textarea>
                 </div>
                 <div className="text-center">
-                    <button className="btn btn-sm px-4 btn btn-primary">OK</button>
+                    <button className="btn btn-sm px-4 btn-primary">OK</button>
                 </div>
             </from>
         </div>

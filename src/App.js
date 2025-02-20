@@ -1,8 +1,8 @@
 import React from "react";
-import FromText from "./form-text";
+import FormSelectFile from "./form-select-file";
 
 function App() {
-  return <FromText/>
+  return <FormSelectFile/>
 }
 
 export default App;
